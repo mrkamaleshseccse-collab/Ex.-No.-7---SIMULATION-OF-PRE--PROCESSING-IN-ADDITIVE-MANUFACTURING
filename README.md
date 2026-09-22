@@ -44,9 +44,14 @@
 ![123_3](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/ebb3a944-eeb0-45e8-9841-d58997840c54)
 
 ## Output:
+<img width="1491" height="811" alt="image" src="https://github.com/user-attachments/assets/9b88fb09-7c14-4e26-8fec-541ec91617ce" />
+<img width="1414" height="811" alt="image" src="https://github.com/user-attachments/assets/b3325250-b36e-4f5a-88ec-b468f5cb04e9" />
+<img width="1389" height="736" alt="image" src="https://github.com/user-attachments/assets/b1cab580-caa3-4b11-8b5b-90076516bab6" />
+<img width="1916" height="620" alt="image" src="https://github.com/user-attachments/assets/2a05c814-0b24-4398-8d7c-a932114907be" />
 
-### Name:
-### Register Number:
+
+### Name:kamaleshkumar k
+### Register Number:212225040164
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
